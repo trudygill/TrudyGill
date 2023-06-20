@@ -1,7 +1,6 @@
-## Hello! 👋
-## Welcome to my Github 👩🏽‍💻
+## Hello! 👋 ## Welcome to my Github 👩🏽‍💻
 
-- 🎓 I am an aspiring data and business analyst and I am currently learning SQL. 
+🎓 I am an aspiring data and business analyst and I am currently learning SQL. 
 
 <!--
 **trudygill/trudygill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
