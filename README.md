@@ -1,6 +1,7 @@
 ### Hello! 👋 Welcome to my GitHub 
-I’m Trudy! I'm an aspiring data and business analyst learning the necessary skillset to pivot in the field. 
-👩🏽‍💻 I am currently learning SQL. 
+I’m Trudy! I'm an aspiring data and business analyst learning the necessary skillset to pivot in the field.
+
+👩🏽‍💻 I am currently learning SQL and working on practice projects 
 
 <!--
 **trudygill/trudygill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
