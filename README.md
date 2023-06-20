@@ -1,4 +1,4 @@
-## Hello! 👋 Welcome to my Github 👩🏽‍💻
+### Hello! 👋 Welcome to my Github 👩🏽‍💻
 
 🎓 I am currently learning SQL. 
 
